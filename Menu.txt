@@ -1,0 +1,9 @@
+{
+    public void GoToLevel(string level)
+    {
+        Application.LoadLevel (level);
+    }   
+}
+
+
+pS( Have second scene in but make sure it's unloaded )
